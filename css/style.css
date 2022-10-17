@@ -1,0 +1,15 @@
+header {
+  background-color: rgb(84, 147, 203);
+}
+
+h1 {
+  color: goldenrod;
+}
+
+body {
+  font-size: 20px;
+}
+body div {
+  font-size: 10px;
+  font-style: normal;
+}
